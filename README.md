@@ -4,5 +4,5 @@ Hello, my name is Dorian, I live in France. I am passionate about Cybersecurity 
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,linux,apple,windows,kalilinux" />
+  <img src="https://skillicons.dev/icons?i=bash,linux,apple,windows,kali" />
 </p># README
